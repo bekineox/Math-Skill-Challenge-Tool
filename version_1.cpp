@@ -59,3 +59,4 @@ int main() {
 
     return 0;
 }
+// this the first version of my math quiz program in C++. It generates 10 random addition questions, collects user answers, and displays the results at the end.
